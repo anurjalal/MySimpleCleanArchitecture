@@ -1,2 +1,2 @@
 # MySimpleCleanArchitecture
-[![anurjalal](https://circleci.com/gh/anurjalal/MySimpleCleanArchitecture.svg?style=svg)](https://circleci.com/gh/anurjalal/MySimpleCleanArchitecture)
+[![anurjalal](https://circleci.com/gh/anurjalal/MySimpleCleanArchitecture.svg?style=shield)](https://circleci.com/gh/anurjalal/MySimpleCleanArchitecture)
